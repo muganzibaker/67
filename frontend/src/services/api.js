@@ -1,7 +1,7 @@
 import axios from "axios"
 
 // Create axios instance with base URL
-const API_URL = "https://aits-backend-baker-b43b47caaf44.herokuapp.com"
+const API_URL = "https://aits-backend-baker-b43b47caaf44.herokuapp.com/api/"
 
 
 const api = axios.create({
